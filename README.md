@@ -6,6 +6,3 @@ I have completed my Task 2 as Java Development Intern at Oasis Infobyte Thank Yo
 
 Task : Number Guessing Game
 
-YouTube Link -  https://youtu.be/h2ko19vksLI
-
-#java #development #intern #github #oasisinfobyte
